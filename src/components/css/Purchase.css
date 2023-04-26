@@ -1,0 +1,25 @@
+.purchase-section {
+  margin-top: 40px;
+  height: 500px;
+  padding: 40px;
+}
+
+img {
+  width: 350px;
+  height: 200px;
+}
+
+.dish-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
